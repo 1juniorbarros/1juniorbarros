@@ -10,7 +10,7 @@ I'm Junior, a 26 years old web developer from Brazil. 🚀
 
 ### 💬 Contact me!
 
-<r>
+<hr>
 
 - Get in touch with me!
 
