@@ -2,13 +2,15 @@
 
 I'm Junior, a 26 years old web developer from Brazil. 🚀
 
-## 🛠 Skills
+### 🛠 Skills
 
 📃 I'm currently learning: 
 
 - `HTML` `CSS` and `JS`
 
-## 💬 Contact me!
+### 💬 Contact me!
+
+<r>
 
 - Get in touch with me!
 
