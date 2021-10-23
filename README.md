@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" alt="Junior Barros"/>
+  <img src="https://raw.githubusercontent.com/1juniorbarros/1juniorbarros/998fb11e2010129a4aed8c45ae95dbac08600639/junior.svg" alt="Junior Barros"/>
 </h1>
 
 ### Hey! 👋
