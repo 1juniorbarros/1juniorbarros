@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="" alt="Junior Barros"/>
+</h1>
+
 ### Hey! 👋
 
 I'm Junior, a 26 years old web developer from Brazil. 🚀
