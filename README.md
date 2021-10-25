@@ -16,7 +16,9 @@ I'm Junior, a 26 years old web developer from Brazil. 🚀
 
 - Get in touch with me!
 
-📩 [Send an e-email](mailto:dev.juniorbarros@gmail.com) |
-💬 [Message on Linkedin](https://linkedin.com/in/1juniorbarros) |
-💬 [Message on Instagram](https://instagram.com/1juniorbarros) |
-🌐 [Website](#)
+📩 [Send an e-email](mailto:dev.juniorbarros@gmail.com) 
+
+💬 [Message on Linkedin](https://linkedin.com/in/1juniorbarros) 
+
+💬 [Message on Instagram](https://instagram.com/1juniorbarros) 
+
